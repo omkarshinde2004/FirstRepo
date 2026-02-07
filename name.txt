@@ -1,0 +1,13 @@
+omkar
+
+# Git session
+
+```bash
+git add .
+git commit -m "first comment"
+git push origin main
+
+git checkout -b branch-name
+
+
+```bash
