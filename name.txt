@@ -3,7 +3,10 @@ omkar
 # Git session
 
 ```bash
-
+git add .
+git commit -m "first comment"
 git push origin main
+
+
 
 ```bash
